@@ -1,10 +1,6 @@
 # Rent-management-system
 Java Rent Management System
 
-User
-
-Rent management system in java readme file 
-
 Overview:
 
 Rent Management System is a Java-based application that helps landlords and property managers keep track of their rental properties. The application enables users to manage multiple properties, tenants, and rental payments. It also includes a user-friendly interface that makes it easy to navigate and use.
@@ -17,11 +13,11 @@ MySQL or any other relational database management system
 
 Installation:
 
-Download the source code from the GitHub repository.
+Clone the repository from github
 
 Install the JDK if it is not already installed on your system.
 
-Install MySQL or any other relational database management system.
+Install MySQL or any other relational database management system.(WAMPP/XAMPP)
 
 Create a new database named 'rent_management_system' in your MySQL server.
 
