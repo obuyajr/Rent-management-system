@@ -5,10 +5,6 @@ User
 
 Rent management system in java readme file 
 
-ChatGPT
-
-README File for Rent Management System in Java
-
 Overview:
 
 Rent Management System is a Java-based application that helps landlords and property managers keep track of their rental properties. The application enables users to manage multiple properties, tenants, and rental payments. It also includes a user-friendly interface that makes it easy to navigate and use.
